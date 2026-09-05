@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "MLEM+FONF: Fractional-Order Multi-Notch Spectral Regularization for CT Reconstruction"
+authors:
+  - family-names: Singh
+    given-names: Akhil Pratap
+  - family-names: Khurana
+    given-names: Manju
+  - family-names: Tiwari
+    given-names: Shailendra
+preferred-citation:
+  type: article
+  title: "MLEM Reconstruction with Fractional-Order Multi-Notch Spectral Regularization"
+  journal: "IEEE Signal Processing Letters"
+  year: 2026
+  authors:
+    - family-names: Singh
+      given-names: Akhil Pratap
+    - family-names: Khurana
+      given-names: Manju
+    - family-names: Tiwari
+      given-names: Shailendra
